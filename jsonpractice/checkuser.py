@@ -1,5 +1,10 @@
 import json
 
+#this program get a users username and check 
+# if the username exist in the json file information 
+# prints the password else get the password from user
+# and record it in json file
+
 def main():
 
     username=input("enter userame:")
